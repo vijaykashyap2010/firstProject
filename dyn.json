@@ -1,0 +1,11 @@
+{
+	Servers:[
+	{ 
+	 Name: DynamoDB,
+	 Owner: Jack,
+	 Created: 12230120,
+	 Status: Active,
+	}
+	 	]
+}
+	 
